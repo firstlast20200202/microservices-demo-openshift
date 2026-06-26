@@ -1,3 +1,10 @@
+fork: an example of deployment via CLI
+
+
+
+
+
+
 # Sock Shop on OpenShift 
 This repository is for running Sock Shop on Openshift. Original Sock Shop kubernetes manifests need full access to Kubernetes API. Therefore we can't Sock Shop on OpenShift using original those without any modifications. However, manifests in this have been modified to run on OpenShift without cluster-admin privilege.
 
